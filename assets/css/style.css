@@ -1,8 +1,5 @@
 body {
-  background-image: url
-    (
-      "http://loodibee.com/wp-content/uploads/nfl-new-orleans-saints-team-logo-300x300.png"
-    );
+  background-image: url("http://newhdwallpapers.us/wp-content/uploads/2019/04/640x1136px-new-orleans-saints-wallpaper-logo-wallpapersafari-within-saints-wallpaper-19201080.png");
   font-family: "Anton", sans-serif;
   color: black;
   letter-spacing: 2px;
@@ -54,7 +51,7 @@ label {
 
 #answerScreen {
   display: none;
-  background-color: white;
+  background-color: rgba(197, 207, 105, 0.774);
   width: 40%;
   margin: 0 auto;
   padding: 2%;
