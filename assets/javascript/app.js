@@ -47,7 +47,7 @@ var questions = [
     divClass: ".Cover"
   },
   {
-    ques: "What is the name of the Saint's home stadium?",
+    ques: "What is the name of the Saints home stadium?",
     ans: [
       "AT&T Stadium",
       "Gillette Stadium",
@@ -60,7 +60,7 @@ var questions = [
   },
   {
     ques:
-      "Who was the Saints' first playoff win against in their franchise history??",
+      "Who was the Saints' first playoff win against in their franchise history?",
     ans: [
       "San Fransisco 49ers ",
       "St. Louis Rams",
@@ -72,7 +72,7 @@ var questions = [
     divClass: ".Playoff"
   },
   {
-    ques: "Who is the Saints' all-tme leading scorer ?",
+    ques: "Who is the Saints' all-tme leading scorer?",
     ans: ["Mark Ingram", "Morten Andersen", "John Carney", "Marques Colston"],
     name: "Scorer",
     correct: "Morten Andersen",
